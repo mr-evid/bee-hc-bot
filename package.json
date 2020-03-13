@@ -1,0 +1,35 @@
+{
+  "name": "hack-chat-bot",
+  "version": "1.0.0",
+  "description": "a bot for hack chat",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrevid/hack-chat-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrevid/hack-chat-bot/issues"
+  },
+  "homepage": "https://github.com/mrevid/hack-chat-bot#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "get-json": "^1.0.1",
+    "request": "^2.88.0",
+    "ws": "^7.1.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "get-json": "^1.0.1",
+    "request": "^2.88.0",
+    "ws": "^7.1.0"
+  }
+}
